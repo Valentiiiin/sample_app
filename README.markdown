@@ -1,0 +1,1 @@
+Test application for learning ruby on rails
